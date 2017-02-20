@@ -1,0 +1,6 @@
+  Code File: MN_8000.txt
+  MaxInteration: 10	Start: 2  Stop: 2.5  Step: 0.1
+  Modulation Type:  0  Decoder Algorithm:  0
+
+  SNR            BER            FER      ErrB      ErrF     TestF
+    2  5.832500e-004  3.770000e-001      4666       377      1000   244.107 s

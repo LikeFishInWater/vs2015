@@ -1,0 +1,20 @@
+﻿Build started 2013/11/7 14:58:41.
+     1>Project "E:\NCRL\undergraduate\通信实验室\毕设\OSD\AWGN\LTE_Turbo_SLVA\LTE_Turbo_SLVA\LTE_Turbo_SLVA.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\LTE_Turbo_SLVA.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\LTE_Turbo_SLVA.unsuccessfulbuild".
+         Touching "Debug\LTE_Turbo_SLVA.lastbuildstate".
+     1>Done Building Project "E:\NCRL\undergraduate\通信实验室\毕设\OSD\AWGN\LTE_Turbo_SLVA\LTE_Turbo_SLVA\LTE_Turbo_SLVA.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04

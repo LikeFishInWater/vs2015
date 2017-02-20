@@ -1,0 +1,191 @@
+﻿Build started 2013/12/12 11:44:41.
+     1>Project "E:\NCRL\undergraduate\通信实验室\毕设\OSD\AWGN\LTE_Turbo_SLVA\LTE_Turbo_SLVA\LTE_Turbo_SLVA.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\LTE_Turbo_SLVA.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt CRC_Decode.c CRC_Encode.c DeRateMatch.c Modulation.c RateMatch.c SLVA.c Turbo_Decode.c Turbo_Encode.c Viterbi_Decode.c channel.c main.c
+         CRC_Decode.c
+         CRC_Encode.c
+         DeRateMatch.c
+         Modulation.c
+     1>Modulation.c(80): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Modulation.c(88): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Modulation.c(253): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Modulation.c(414): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+         RateMatch.c
+         SLVA.c
+         Turbo_Decode.c
+     1>Turbo_Decode.c(67): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Turbo_Decode.c(74): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Turbo_Decode.c(81): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Turbo_Decode.c(88): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Turbo_Decode.c(95): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Turbo_Decode.c(102): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Turbo_Decode.c(109): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Turbo_Decode.c(116): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Turbo_Decode.c(123): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Turbo_Decode.c(131): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Turbo_Decode.c(138): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Turbo_Decode.c(145): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Turbo_Decode.c(152): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Turbo_Decode.c(159): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Turbo_Decode.c(166): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Turbo_Decode.c(173): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Turbo_Decode.c(182): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Turbo_Decode.c(594): warning C4101: 'LLR_tmp' : unreferenced local variable
+     1>Turbo_Decode.c(805): warning C4101: 'COLUMN' : unreferenced local variable
+     1>Turbo_Decode.c(806): warning C4101: 'Max_row_weight' : unreferenced local variable
+     1>Turbo_Decode.c(805): warning C4101: 'H_ROW' : unreferenced local variable
+     1>Turbo_Decode.c(806): warning C4101: 'Max_col_weight' : unreferenced local variable
+     1>Turbo_Decode.c(805): warning C4101: 'G_ROW' : unreferenced local variable
+     1>Turbo_Decode.c(909): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Turbo_Decode.c(918): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Turbo_Decode.c(927): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Turbo_Decode.c(936): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>Turbo_Decode.c(892): warning C4101: 'j' : unreferenced local variable
+         Turbo_Encode.c
+         Viterbi_Decode.c
+         channel.c
+         main.c
+     1>main.c(101): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(108): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(115): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(122): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(132): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(162): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(169): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(176): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(184): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(194): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(201): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(208): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(216): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(224): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(232): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(241): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(249): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(256): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(263): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(270): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(277): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(284): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(291): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(299): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(307): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(315): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(323): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(331): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(371): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>main.c(372): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>main.c(373): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>main.c(374): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>main.c(375): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>main.c(376): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>main.c(377): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>main.c(378): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>main.c(379): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>main.c(381): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>main.c(382): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdlib.h(451) : see declaration of '_itoa'
+     1>main.c(383): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>main.c(384): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>main.c(391): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>main.c(393): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(401): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>main.c(403): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(607): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>main.c(609): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 D:\Program Files\Microsoft Visual Studio 10.0\VC\include\conio.h(128) : see declaration of 'getch'
+     1>main.c(65): warning C4101: 'i' : unreferenced local variable
+     1>main.c(66): warning C4101: 'q2' : unreferenced local variable
+     1>main.c(58): warning C4101: 'StoP_j' : unreferenced local variable
+     1>main.c(56): warning C4101: 'pn_i' : unreferenced local variable
+     1>main.c(66): warning C4101: 'q1' : unreferenced local variable
+     1>main.c(69): warning C4101: 'tailBitAddr_awgn_output' : unreferenced local variable
+     1>main.c(65): warning C4101: 'j' : unreferenced local variable
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\NCRL\undergraduate\通信实验室\毕设\OSD\AWGN\LTE_Turbo_SLVA\Release\LTE_Turbo_SLVA.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\LTE_Turbo_SLVA.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\NCRL\undergraduate\通信实验室\毕设\OSD\AWGN\LTE_Turbo_SLVA\Release\LTE_Turbo_SLVA.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\NCRL\undergraduate\通信实验室\毕设\OSD\AWGN\LTE_Turbo_SLVA\Release\LTE_Turbo_SLVA.lib" /MACHINE:X86 Release\channel.obj
+         Release\CRC_Decode.obj
+         Release\CRC_Encode.obj
+         Release\DeRateMatch.obj
+         Release\main.obj
+         Release\Modulation.obj
+         Release\RateMatch.obj
+         Release\SLVA.obj
+         Release\Turbo_Decode.obj
+         Release\Turbo_Encode.obj
+         Release\Viterbi_Decode.obj
+         Generating code
+         Finished generating code
+         LTE_Turbo_SLVA.vcxproj -> E:\NCRL\undergraduate\通信实验室\毕设\OSD\AWGN\LTE_Turbo_SLVA\Release\LTE_Turbo_SLVA.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\NCRL\undergraduate\通信实验室\毕设\OSD\AWGN\LTE_Turbo_SLVA\Release\LTE_Turbo_SLVA.exe;#1" /manifest Release\LTE_Turbo_SLVA.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\LTE_Turbo_SLVA.unsuccessfulbuild".
+         Touching "Release\LTE_Turbo_SLVA.lastbuildstate".
+     1>Done Building Project "E:\NCRL\undergraduate\通信实验室\毕设\OSD\AWGN\LTE_Turbo_SLVA\LTE_Turbo_SLVA\LTE_Turbo_SLVA.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.29

@@ -1,0 +1,16 @@
+K=1152	R=0.500000	ITNum=   8	OSD_sum_flag=   9
+
+Eb/No	       NTF	 NEF	       FER	       BER
+1.00	       501	 122	2.435e-01	1.240e-02
+K=1152	R=0.500000	ITNum=   8	OSD_sum_flag=   9
+
+Eb/No	       NTF	 NEF	       FER	       BER
+K=1152	R=0.500000	ITNum=   8	OSD_sum_flag=   9
+
+Eb/No	       NTF	 NEF	       FER	       BER
+K=1152	R=0.500000	ITNum=   8	OSD_sum_flag=   9
+
+Eb/No	       NTF	 NEF	       FER	       BER
+K=1152	R=0.500000	ITNum=   8	OSD_sum_flag=   9
+
+Eb/No	       NTF	 NEF	       FER	       BER

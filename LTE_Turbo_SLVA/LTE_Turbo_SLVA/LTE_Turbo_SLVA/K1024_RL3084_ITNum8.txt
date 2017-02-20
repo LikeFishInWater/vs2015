@@ -1,0 +1,3 @@
+N=1024	R=0.332036	ITNum=8	addSLVA=0	slvaL=16	start_culLe_IT=8	start_slva_IT=1
+
+Eb/No	       NTF	 NEF	       FER	       BER

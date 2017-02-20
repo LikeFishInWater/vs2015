@@ -1,0 +1,4 @@
+﻿  grammar.cpp
+f:\projects\visual studio\grammar\grammar\grammar.cpp(15): warning C4101: “input_buffer”: 未引用的局部变量
+  grammar.vcxproj -> F:\projects\visual studio\grammar\Debug\grammar.exe
+  grammar.vcxproj -> F:\projects\visual studio\grammar\Debug\grammar.pdb (Full PDB)

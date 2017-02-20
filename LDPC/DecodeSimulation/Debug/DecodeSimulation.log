@@ -1,0 +1,16 @@
+﻿  Simulate.cpp
+  Modulate.cpp
+  main.cpp
+  LDPC.cpp
+e:\projects\vs2015\ldpc\decodesimulation\src\ldpc.cpp(196): warning C4018: “<”: 有符号/无符号不匹配
+e:\projects\vs2015\ldpc\decodesimulation\src\ldpc.cpp(289): warning C4018: “<”: 有符号/无符号不匹配
+e:\projects\vs2015\ldpc\decodesimulation\src\ldpc.cpp(292): warning C4018: “<”: 有符号/无符号不匹配
+e:\projects\vs2015\ldpc\decodesimulation\src\ldpc.cpp(299): warning C4018: “<”: 有符号/无符号不匹配
+e:\projects\vs2015\ldpc\decodesimulation\src\ldpc.cpp(301): warning C4018: “<”: 有符号/无符号不匹配
+e:\projects\vs2015\ldpc\decodesimulation\src\ldpc.cpp(321): warning C4018: “<”: 有符号/无符号不匹配
+e:\projects\vs2015\ldpc\decodesimulation\src\ldpc.cpp(584): warning C4101: “maxIndex”: 未引用的局部变量
+  Complex.cpp
+  Channel.cpp
+  正在生成代码...
+  DecodeSimulation.vcxproj -> E:\projects\vs2015\LdpcScma\Debug\DecodeSimulation.exe
+  DecodeSimulation.vcxproj -> E:\projects\vs2015\LdpcScma\Debug\DecodeSimulation.pdb (Full PDB)

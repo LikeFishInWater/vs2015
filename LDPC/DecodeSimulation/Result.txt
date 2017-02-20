@@ -1,0 +1,6 @@
+  Code File: MN_4000.txt
+  MaxInteration: 10	Start: 2  Stop: 3  Step: 0.1
+  Modulation Type:  0  Decoder Algorithm:  0
+
+  SNR            BER            FER      ErrB      ErrF     TestF
+    2   1.621951e-03   3.658537e-01       532        30        82     4.967 s

@@ -1,0 +1,4 @@
+﻿  LdsCdmaRegularQPSK.cpp
+f:\projects\visual studio\ldscdma\ldscdmaregularqpsk\ldscdmaregularqpsk.cpp(12): warning C4101: “errTemp”: 未引用的局部变量
+  LdsCdmaRegularQPSK.vcxproj -> F:\projects\visual studio\LdsCdma\Debug\LdsCdmaRegularQPSK.exe
+  LdsCdmaRegularQPSK.vcxproj -> F:\projects\visual studio\LdsCdma\Debug\LdsCdmaRegularQPSK.pdb (Full PDB)

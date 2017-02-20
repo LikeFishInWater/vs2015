@@ -1,0 +1,66 @@
+Simulation parameters
+Message Length:												5928
+RM Length:													17868	//RateMatch Out Length(6120+24)*3+12
+Maximum Iteration:											8
+Maximum bigIT:												1		//1->BICM;>1 ->BICM-ID
+Decoder Type:												0		//0->Float SW,Parallelism in each parallel subdecoder is 3;1->Fixed SW,Parallelism in each parallel subdecoder is 3
+Decode Method:												1		//0->Max-Log-MAP;1->Log-MAP;2->Max-Log-MAP+
+SubDecode Number:											8		//parallelism degree
+Const Factor for float decoder:								0.36	//multiply Le for float decoder
+Const Factor for fixed decoder:								2306	//multiply Le for fixed decoder
+Slide Window Size:											64		//for Slide Window Map algorithm
+NL(Transmission layers that mapperd onto):					1
+Qm(Base on modulation method):								1		//1->BPSK;2->QPSK;4->16QAM;6->64QAM
+NIR(Soft buffer size for the transport block):				100000
+RV(Redundancy version):										0
+Test SNR:													0.8 0.1 12.4
+Least Error Frames:											200
+Least Test Frames:											5000
+Display Step:												10
+Write Frequency:											100
+Add noise(1 -> add,0 -> no):								1
+Decode mode(0->new,1->continue):							0
+Record Error Frame(1 -> yes,0 -> no):						0
+Test Error Frame(1 -> yes,0 -> no):							0
+fixed method:												1
+width for LLR:												7
+maxtemp for max:											0.91
+powertemp for power:										1.9//1.9
+width for alpha:											12
+width for beta:												12
+width for Le_sys:											16
+width for Le_par:											16
+
+/************************************************仿真参数说明************************************************/
+Message Length:												编码前信息位长度(不加CRC校验位)，取值为26~6120
+RM Length:													编码后的长度，包括CRC编码和Turbo编码，且默认码率为1/3，不打孔
+Maximum Iteration:											最大内迭代次数
+Maximum bigIT:												最大大迭代次数，为1时为BICM，大于1为BICM_ID
+Decoder Type:												译码器选择:0->浮点译码器,内部滑窗无overlap,利用上次内迭代的初值对本次内迭代的FPU和BUF计算初始化; 1->相应的定点译码器
+Decode Method:												译码器内部的译码方式选择:0->Max-Log-MAP;1->Log-MAP;2->Max-Log-MAP+.浮点译码器可选用这三种方式，定点译码器默认为模式0
+SubDecode Number:											滑窗译码器的并行度
+Const Factor for float decoder:								浮点译码器的优化因子,最优为0.36
+Const Factor for fixed decoder:								定点译码器的优化因子,最优为2306=1/4+1/8-1/64=0.3594
+Slide Window Size:											滑窗大小B
+NL(Transmission layers that mapperd onto):					总共需要映射的数据层数,在AWGN信道下简单地选为1即可;衰落信道中根据具体情况而定
+Qm(Base on modulation method):								调制方式:1->BPSK;2->QPSK;4->16QAM;6->64QAM
+NIR(Soft buffer size for the transport block):				一个传输块的Soft buffer长度
+RV(Redundancy version):										冗余版本号,用于速率匹配模块
+Test SNR:													仿真的Eb/N0范围:startSnr;stepSnr;stopSnr
+Least Error Frames:											错误帧数的最小值.若未达到，则继续仿真;否则根据是否达到最小测试帧数来判断是否停止本个SNR的仿真
+Least Test Frames:											仿真帧数的最小值.若未达到，则继续仿真;否则根据是否达到最小错误帧数来判断是否停止本个SNR的仿真
+Display Step:												每次显示的仿真帧数
+Write Frequency:											向文件中写数据的频率
+Add noise:													是否添加高斯白噪声:1 -> add,0 -> no
+Decode mode:												是否测试新的一帧:0->是,1->继续仿真当前帧
+Record Error Frame:											是否记录错误帧:1 -> yes,0 -> no
+Test Error Frame:											是否需要对错误帧进行二次测试:1 -> yes,0 -> no
+fixed method:												归一化方式选择，0为最大值归一化，1为平均能量归一化
+width for LLR:												译码器入口参数定点比特数
+maxtemp for max:											最大值归一化时的归一化参数，调整饱和度
+powertemp for power:										平均能量归一化时的归一化参数，调整饱和度
+width for alpha:											译码器内部alpha定点比特数
+width for beta:												译码器内部beta定点比特数
+width for Le_sys:											译码器内部Le_sys定点比特数
+width for Le_par:											译码器内部Le_par定点比特数
+/***************************************************************************************************/

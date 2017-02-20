@@ -1,0 +1,112 @@
+*************************LTE Turbo code Simulation*************************
+* Message Length is 5928, CRC Length is 24, Code is LTE (15,13)
+* Transfer Length is 17868, Rate is 0.333
+* Decoder Number is 8
+* Decoding is Log-MAP,  IT = 8	bigIT = 0
+* Float decoding is based on slide windows with Subblock,Parallelism in each parallel subdecoder is 3, B=64
+* Const Factor for float decoder is 0.360000
+* Information bits is PN sequence, Channel is AWGN
+* Add Noise : yes. 
+* Modulation type : BPSK. 
+* Output Performance file : Max+_L5928_R17868.txt
+* The Eb/N0 is (0.80, 0.10, 12.40)
+***************************************************************************
+
+
+ Eb/No	       NTF	 NEF	       FER	       BER
+* Fixed uses the average power,  power_temp = 1.900000
+* The width of fixed LLR = 7
+* The width of fixed alpha = 12
+* The width of fixed beta = 12
+* The width of fixed Le_sys = 16
+* The width of fixed Le_par = 16
+* Output Performance file : Max+_L5928_R17868.txt
+* The Eb/N0 is (0.80, 0.10, 12.40)
+***************************************************************************
+
+
+ Eb/No	       NTF	 NEF	       FER	       BER
+*************************LTE Turbo code Simulation*************************
+* Message Length is 5928, CRC Length is 24, Code is LTE (15,13)
+* Transfer Length is 17868, Rate is 0.333
+* Decoder Number is 8
+* Decoding is Log-MAP,  IT = 8	bigIT = 0
+* Float decoding is based on slide windows with Subblock,Parallelism in each parallel subdecoder is 3, B=64
+* Const Factor for float decoder is 0.360000
+* Information bits is PN sequence, Channel is AWGN
+* Add Noise : yes. 
+* Modulation type : BPSK. 
+* Output Performance file : Max+_L5928_R17868.txt
+* The Eb/N0 is (0.80, 0.10, 12.40)
+***************************************************************************
+
+
+ Eb/No	       NTF	 NEF	       FER	       BER
+* Fixed uses the average power,  power_temp = 1.900000
+* The width of fixed LLR = 7
+* The width of fixed alpha = 12
+* The width of fixed beta = 12
+* The width of fixed Le_sys = 16
+* The width of fixed Le_par = 16
+* Output Performance file : Max+_L5928_R17868.txt
+* The Eb/N0 is (0.80, 0.10, 12.40)
+***************************************************************************
+
+
+ Eb/No	       NTF	 NEF	       FER	       BER
+*************************LTE Turbo code Simulation*************************
+* Message Length is 5928, CRC Length is 24, Code is LTE (15,13)
+* Transfer Length is 17868, Rate is 0.333
+* Decoder Number is 8
+* Decoding is Log-MAP,  IT = 8	bigIT = 0
+* Float decoding is based on slide windows with Subblock,Parallelism in each parallel subdecoder is 3, B=64
+* Const Factor for float decoder is 0.360000
+* Information bits is PN sequence, Channel is AWGN
+* Add Noise : yes. 
+* Modulation type : BPSK. 
+* Output Performance file : Max+_L5928_R17868.txt
+* The Eb/N0 is (0.80, 0.10, 12.40)
+***************************************************************************
+
+
+ Eb/No	       NTF	 NEF	       FER	       BER
+* Fixed uses the average power,  power_temp = 1.900000
+* The width of fixed LLR = 7
+* The width of fixed alpha = 12
+* The width of fixed beta = 12
+* The width of fixed Le_sys = 16
+* The width of fixed Le_par = 16
+* Output Performance file : Max+_L5928_R17868.txt
+* The Eb/N0 is (0.80, 0.10, 12.40)
+***************************************************************************
+
+
+ Eb/No	       NTF	 NEF	       FER	       BER
+*************************LTE Turbo code Simulation*************************
+* Message Length is 5928, CRC Length is 24, Code is LTE (15,13)
+* Transfer Length is 17868, Rate is 0.333
+* Decoder Number is 8
+* Decoding is Log-MAP,  IT = 8	bigIT = 0
+* Float decoding is based on slide windows with Subblock,Parallelism in each parallel subdecoder is 3, B=64
+* Const Factor for float decoder is 0.360000
+* Information bits is PN sequence, Channel is AWGN
+* Add Noise : yes. 
+* Modulation type : BPSK. 
+* Output Performance file : Max+_L5928_R17868.txt
+* The Eb/N0 is (0.80, 0.10, 12.40)
+***************************************************************************
+
+
+ Eb/No	       NTF	 NEF	       FER	       BER
+* Fixed uses the average power,  power_temp = 1.900000
+* The width of fixed LLR = 7
+* The width of fixed alpha = 12
+* The width of fixed beta = 12
+* The width of fixed Le_sys = 16
+* The width of fixed Le_par = 16
+* Output Performance file : Max+_L5928_R17868.txt
+* The Eb/N0 is (0.80, 0.10, 12.40)
+***************************************************************************
+
+
+ Eb/No	       NTF	 NEF	       FER	       BER

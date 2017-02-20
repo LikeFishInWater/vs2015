@@ -1,0 +1,29 @@
+N=1024	R=0.332036	ITNum=8	addSLVA=1	slvaL=16	start_culLe_IT=8	start_slva_IT=1
+
+Eb/No	       NTF	 NEF	       FER	       BER
+0.00	      1001	 820	8.192e-001	5.641e+001
+0.20	      1001	 525	5.245e-001	3.000e+001
+0.40	      1001	 218	2.178e-001	1.031e+001
+0.60	      1001	  57	5.694e-002	2.058e+000
+0.80	      5607	  50	8.917e-003	1.775e+000
+1.00	     79452	  50	6.293e-004	1.667e+000
+1.20	   2562387	  50	1.951e-005	1.113e+000
+N=1024	R=0.332036	ITNum=8	addSLVA=1	slvaL=16	start_culLe_IT=8	start_slva_IT=1
+
+Eb/No	       NTF	 NEF	       FER	       BER
+0.00	      1001	 820	8.192e-001	1.119e-001
+0.20	      1001	 525	5.245e-001	5.846e-002
+0.40	      1001	 218	2.178e-001	1.967e-002
+0.60	      1001	  57	5.694e-002	3.717e-003
+N=1024	R=0.332036	ITNum=8	addSLVA=1	slvaL=16	start_culLe_IT=8	start_slva_IT=1
+
+Eb/No	       NTF	 NEF	       FER	       BER
+N=1024	R=0.332036	ITNum=8	addSLVA=1	slvaL=16	start_culLe_IT=8	start_slva_IT=1
+
+Eb/No	       NTF	 NEF	       FER	       BER
+N=1024	R=0.332036	ITNum=8	addSLVA=1	slvaL=16	start_culLe_IT=8	start_slva_IT=1
+
+Eb/No	       NTF	 NEF	       FER	       BER
+N=1024	R=0.332036	ITNum=8	addSLVA=1	slvaL=16	start_culLe_IT=8	start_slva_IT=1
+
+Eb/No	       NTF	 NEF	       FER	       BER

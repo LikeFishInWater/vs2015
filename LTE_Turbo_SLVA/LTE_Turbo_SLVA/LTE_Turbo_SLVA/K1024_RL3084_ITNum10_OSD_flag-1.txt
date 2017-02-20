@@ -1,0 +1,3 @@
+K=1024	R=0.332036	ITNum=  10	OSD_sum_flag=  -1
+
+Eb/No	       NTF	 NEF	       FER	       BER

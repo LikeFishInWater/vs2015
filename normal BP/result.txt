@@ -1,0 +1,3 @@
+snr=1.700000   num=50  success=18    error_bit=28887  error_code=32   ber=0.125378   aver_iter=26.740000
+snr=1.700000   num=100  success=36    error_bit=54760  error_code=64   ber=0.118837   aver_iter=26.580000
+snr=1.800000   num=50  success=35    error_bit=10299  error_code=15   ber=0.044701   aver_iter=22.340000

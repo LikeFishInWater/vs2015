@@ -1,0 +1,49 @@
+K=1024	R=0.332036	ITNum=   8	OSD_sum_flag=   0
+
+Eb/No	       NTF	 NEF	       FER	       BER
+K=1024	R=0.332036	ITNum=   8	OSD_sum_flag=   0
+
+Eb/No	       NTF	 NEF	       FER	       BER
+K=1024	R=0.332036	ITNum=   8	OSD_sum_flag=   0
+
+Eb/No	       NTF	 NEF	       FER	       BER
+K=1024	R=0.332036	ITNum=   8	OSD_sum_flag=   0
+
+Eb/No	       NTF	 NEF	       FER	       BER
+K=1024	R=0.332036	ITNum=   8	OSD_sum_flag=   0
+
+Eb/No	       NTF	 NEF	       FER	       BER
+K=1024	R=0.332036	ITNum=   8	OSD_sum_flag=   0
+
+Eb/No	       NTF	 NEF	       FER	       BER
+K=1024	R=0.332036	ITNum=   8	OSD_sum_flag=   0
+
+Eb/No	       NTF	 NEF	       FER	       BER
+K=1024	R=0.332036	ITNum=   8	OSD_sum_flag=   0
+
+Eb/No	       NTF	 NEF	       FER	       BER
+K=1024	R=0.332036	ITNum=   8	OSD_sum_flag=   0
+
+Eb/No	       NTF	 NEF	       FER	       BER
+K=1024	R=0.332036	ITNum=   8	OSD_sum_flag=   0
+
+Eb/No	       NTF	 NEF	       FER	       BER
+K=1024	R=0.332036	ITNum=   8	OSD_sum_flag=   0
+
+Eb/No	       NTF	 NEF	       FER	       BER
+K=1024	R=0.332036	ITNum=   8	OSD_sum_flag=   0
+
+Eb/No	       NTF	 NEF	       FER	       BER
+K=1024	R=0.332036	ITNum=   8	OSD_sum_flag=   0
+
+Eb/No	       NTF	 NEF	       FER	       BER
+0.40	      1001	 223	2.228e-001	1.430e-002
+K=1024	R=0.332036	ITNum=   8	OSD_sum_flag=   0
+
+Eb/No	       NTF	 NEF	       FER	       BER
+K=1024	R=0.332036	ITNum=   8	OSD_sum_flag=   0
+
+Eb/No	       NTF	 NEF	       FER	       BER
+K=1024	R=0.332036	ITNum=   8	OSD_sum_flag=   0
+
+Eb/No	       NTF	 NEF	       FER	       BER

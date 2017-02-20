@@ -1,0 +1,16 @@
+K=1024	R=0.750183	ITNum=   8	OSD_sum_flag=   0
+
+Eb/No	       NTF	 NEF	       FER	       BER
+K=1024	R=0.750183	ITNum=   8	OSD_sum_flag=   0
+
+Eb/No	       NTF	 NEF	       FER	       BER
+K=1024	R=0.750183	ITNum=   8	OSD_sum_flag=   0
+
+Eb/No	       NTF	 NEF	       FER	       BER
+2.00	      1001	 987	9.860e-001	4.949e-002
+2.50	      1001	 725	7.243e-001	1.910e-002
+K=1024	R=0.750183	ITNum=   8	OSD_sum_flag=   0
+
+Eb/No	       NTF	 NEF	       FER	       BER
+2.00	      1001	 832	8.312e-001	3.886e-002
+2.50	      1001	 210	2.098e-001	6.021e-003

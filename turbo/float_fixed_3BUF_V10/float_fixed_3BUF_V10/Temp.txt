@@ -1,0 +1,6 @@
+current snr: 0.80
+current sim index: 29800
+current error frames: 0
+current error bits: 0
+current PN:	0 0 1 0 0 0 1 1 1 0 0 
+current noise seed:	15283 43294 19527

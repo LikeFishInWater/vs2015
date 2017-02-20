@@ -1,0 +1,13 @@
+N=232	R=0.828571	ITNum=8	addSLVA=0	slvaL=16	start_culLe_IT=8	start_slva_IT=1
+
+Eb/No	       NTF	 NEF	       FER	       BER
+N=232	R=0.828571	ITNum=8	addSLVA=0	slvaL=16	start_culLe_IT=8	start_slva_IT=1
+
+Eb/No	       NTF	 NEF	       FER	       BER
+2.00	       114	 100	8.772e-001	6.193e-002
+2.50	       153	 100	6.536e-001	4.155e-002
+3.00	       247	 100	4.049e-001	2.134e-002
+3.50	       575	 100	1.739e-001	7.474e-003
+4.00	      2374	 100	4.212e-002	1.402e-003
+4.50	     12365	 100	8.087e-003	2.325e-004
+5.00	     57411	 100	1.742e-003	4.069e-005

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Struct Name="__unnamed_struct_0003_1" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAgAAAAAAAACA=</HashCode>
+      <FileName>struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0003_2" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="state" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAARAJAABAAGAAAAAAAgAAA4AAAQAAA=</HashCode>
+      <FileName>struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SerialListVA1" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SerialListVA2" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAQAAAAAAAAAAAAAAAAAAAAAAAEAgAAAAAAA=</HashCode>
+      <FileName>struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SPStruct" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAICEABAAAAAAAAAAABAIAAAAEAAQIAAAAQA=</HashCode>
+      <FileName>struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="StatisStruct" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAKAAACKAAAAAUAAgAAAAAAAABAQAAAAAAAAACA=</HashCode>
+      <FileName>struct.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="RandomSeed" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>struct.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="PNSeed" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>struct.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Microsoft YaHei" Size="9" />
+</ClassDiagram>

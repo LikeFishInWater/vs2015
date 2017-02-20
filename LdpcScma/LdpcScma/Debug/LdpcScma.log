@@ -1,0 +1,21 @@
+﻿  stdafx.cpp
+  simulation.cpp
+e:\projects\vs2015\ldpcscma\ldpcscma\simulation.cpp(117): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  SCMA.cpp
+e:\projects\vs2015\ldpcscma\ldpcscma\scma.cpp(111): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  main.cpp
+e:\projects\vs2015\ldpcscma\ldpcscma\main.cpp(22): warning C4838: 从“double”转换到“float”需要收缩转换
+e:\projects\vs2015\ldpcscma\ldpcscma\main.cpp(22): warning C4305: “初始化”: 从“double”到“float”截断
+e:\projects\vs2015\ldpcscma\ldpcscma\main.cpp(25): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\projects\vs2015\ldpcscma\ldpcscma\main.cpp(26): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\projects\vs2015\ldpcscma\ldpcscma\main.cpp(32): error C2563: 在形参表中不匹配
+e:\projects\vs2015\ldpcscma\ldpcscma\main.cpp(32): error C2065: “PN”: 未声明的标识符
+e:\projects\vs2015\ldpcscma\ldpcscma\main.cpp(32): error C3861: “GenPN”: 找不到标识符
+e:\projects\vs2015\ldpcscma\ldpcscma\main.cpp(46): error C2065: “F”: 未声明的标识符
+  ldpc.cpp
+e:\projects\vs2015\ldpcscma\ldpcscma\ldpc.cpp(633): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  Complex.cpp
+e:\projects\vs2015\ldpcscma\ldpcscma\complex.cpp(13): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  AwgnChannel.cpp
+e:\projects\vs2015\ldpcscma\ldpcscma\awgnchannel.cpp(58): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+  正在生成代码...

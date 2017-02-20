@@ -1,0 +1,4 @@
+﻿  Comm.cpp
+e:\projects\vs2015\ldscdma_nbldpc\ldscdma_nbldpc_oite\comm.cpp(351): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  LdsCdma_NBLDPC_Oite.vcxproj -> E:\projects\vs2015\LdsCdma_NBLDPC\Debug\LdsCdma_NBLDPC_Oite.exe
+  LdsCdma_NBLDPC_Oite.vcxproj -> E:\projects\vs2015\LdsCdma_NBLDPC\Debug\LdsCdma_NBLDPC_Oite.pdb (Full PDB)

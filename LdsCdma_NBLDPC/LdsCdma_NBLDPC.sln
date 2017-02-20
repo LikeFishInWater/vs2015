@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LdsCdma_NBLDPC", "LdsCdma_NBLDPC\LdsCdma_NBLDPC.vcxproj", "{BDC2A5A2-B55C-4299-9C41-79B82A346545}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LdsCdma_NBLDPC_Oite", "LdsCdma_NBLDPC_Oite\LdsCdma_NBLDPC_Oite.vcxproj", "{05D7406D-E40D-4521-94C8-81E3AF280D3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDC2A5A2-B55C-4299-9C41-79B82A346545}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BDC2A5A2-B55C-4299-9C41-79B82A346545}.Debug|Win32.Build.0 = Debug|Win32
+		{BDC2A5A2-B55C-4299-9C41-79B82A346545}.Debug|x64.ActiveCfg = Debug|Win32
+		{BDC2A5A2-B55C-4299-9C41-79B82A346545}.Release|Win32.ActiveCfg = Release|Win32
+		{BDC2A5A2-B55C-4299-9C41-79B82A346545}.Release|Win32.Build.0 = Release|Win32
+		{BDC2A5A2-B55C-4299-9C41-79B82A346545}.Release|x64.ActiveCfg = Release|Win32
+		{05D7406D-E40D-4521-94C8-81E3AF280D3A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{05D7406D-E40D-4521-94C8-81E3AF280D3A}.Debug|Win32.Build.0 = Debug|Win32
+		{05D7406D-E40D-4521-94C8-81E3AF280D3A}.Debug|x64.ActiveCfg = Debug|x64
+		{05D7406D-E40D-4521-94C8-81E3AF280D3A}.Debug|x64.Build.0 = Debug|x64
+		{05D7406D-E40D-4521-94C8-81E3AF280D3A}.Release|Win32.ActiveCfg = Release|Win32
+		{05D7406D-E40D-4521-94C8-81E3AF280D3A}.Release|Win32.Build.0 = Release|Win32
+		{05D7406D-E40D-4521-94C8-81E3AF280D3A}.Release|x64.ActiveCfg = Release|x64
+		{05D7406D-E40D-4521-94C8-81E3AF280D3A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
